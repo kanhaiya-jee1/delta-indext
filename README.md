@@ -1,2 +1,2 @@
 # delta-indext
-This is a Demo fo Git &amp; Github class
+This is a Demo fo Git &amp; Github class.
